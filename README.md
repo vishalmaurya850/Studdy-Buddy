@@ -8,7 +8,7 @@ Want to see CopilotKit in action? Click the button below to try the live demo.
   <img src="./public/screenshot.png" alt="Todo Demo Screenshot" width="600px">
 </a>
 
-<a href="https://todo-demo-phi.vercel.app">
+<a href="">
   <img src="./public/run-demo-cta.png" alt="Run the live demo" width="250px">
 </a>
 
