@@ -4,8 +4,8 @@ This is a demo that showcases using CopilotKit to build a simple Todo app.
 
 Want to see CopilotKit in action? Click the button below to try the live demo.
 
-<a href="https://todo-demo-phi.vercel.app">
-  <img src="./public/screenshot.png" alt="Todo Demo Screenshot" width="600px">
+<a href="">
+  <img src="./public/screenshot.png" alt="Demo Screenshot" width="600px">
 </a>
 
 <a href="">
